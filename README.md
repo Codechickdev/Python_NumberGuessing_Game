@@ -1,1 +1,1 @@
-# Python_NumberGuessing_Game
+# JavaScript-NumberGuessing-Game
